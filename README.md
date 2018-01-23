@@ -2,7 +2,7 @@
 
 Installation:
 
-1. install python
+1. require python
 2. open command prompt, redirected to the dodger's folder
 3. call "python -m SimpleHTTPServer" (without double quote) for python 2
    call "python -m http.server" (without double quote) for python3 
